@@ -1,0 +1,3 @@
+[submodule "QoiSharp"]
+	path = QoiSharp
+	url = https://github.com/Ben1138/QoiSharp
