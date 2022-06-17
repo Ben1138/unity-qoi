@@ -6,6 +6,6 @@ This importer utilises the [QoiSharp](https://github.com/NUlliiON/QoiSharp) impl
 
 Qoi provides on-par compression with PNG, while being way faster at decoding (2x) end encoding (20x - 50x).
 [Benchmarks](https://youtu.be/EFUYNoFRHQI?t=1706) by [Reducible](https://www.youtube.com/c/Reducible)
-![](img/benchmark_compress.jpgbenchmark_compress.jpg)
-![](img/benchmark_compress.jpgbenchmark_decode.jpg)
-![](img/benchmark_compress.jpgbenchmark_encode.jpg)
+![](img/benchmark_compress.jpg)
+![](img/benchmark_decode.jpg)
+![](img/benchmark_encode.jpg)
