@@ -1,4 +1,4 @@
-![QOI Logo](https://qoiformat.org/qoi-logo.svg) ![Unity Logo](img/U_Logo_White_RGB.png)
+![QOI Logo](https://qoiformat.org/qoi-logo.svg) ![Unity Logo](img/unity-logo.png)
 
 # unity-qoi
 A simple Unity importer for [qoi, the "Quite OK Image" image format](https://github.com/phoboslab/qoi) for fast, lossless image compression.
